@@ -3,6 +3,8 @@ Capstone project for the Machine Learning Foundation course (IS41070) at the UCD
 
 ### Project Overview
 
+Note: CSV file used - '50.csv'.
+
 This project, titled **"News Classification Using Machine Learning and Deep Learning Models,"** is the final project of the Machine Learning Foundation (IS41070) course at UCD iSchool for my MSc Information Systems. The objective of the project is to classify news articles into appropriate categories using machine learning and deep learning models, addressing challenges like class imbalance and optimizing for key metrics like the F1-score.
 
 The workflow is divided into three main tasks:
